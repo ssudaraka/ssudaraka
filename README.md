@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 
 I understand there's nothing much to see yet. I'm currently working on building my portfolio!  
-Previously I worked at Auth0 by Okta as a Developer Support Engineer. I'm currently on a career break learning new stuff! 🤓
+Currently working as a Support Engineer at [Supabase](https://supabase.com).
 
 <!--
 **ssudaraka/ssudaraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
